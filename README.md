@@ -1,5 +1,8 @@
 # 📊 Dashboard – Análise de Oficina Mecânica (Power BI + MySQL)
 
+<img width="1420" height="566" alt="image" src="https://github.com/user-attachments/assets/0e73e824-8804-4fc0-9134-1d3df0059e10" />
+
+
 ## 🔍 Visão Geral
 Este projeto foi desenvolvido com o objetivo de simular um cenário real de análise de dados
 para uma oficina mecânica, abordando todas as etapas do processo analítico: criação do banco
