@@ -51,8 +51,6 @@ Principais entidades modeladas:
 Os relacionamentos entre as tabelas foram pensados para atender corretamente às análises
 gerenciais propostas no dashboard.
 
-📘 A documentação técnica detalhada da modelagem está disponível na **Wiki** do repositório.
-
 ---
 
 ## 🔄 Tratamento e Preparação dos Dados (ETL)
