@@ -95,12 +95,6 @@ Durante o desenvolvimento deste projeto, pude aprofundar conhecimentos em:
 
 ---
 
-## 🔗 Documentação Complementar
-A documentação técnica detalhada, incluindo decisões de modelagem, consultas SQL e
-justificativas analíticas, está disponível na **Wiki** deste repositório.
-
----
-
 ## 🚀 Considerações Finais
 Este projeto faz parte do meu portfólio pessoal e tem como objetivo demonstrar minhas
 competências em análise de dados, BI e visualização, aplicadas a um cenário realista
