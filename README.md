@@ -81,7 +81,8 @@ O dashboard foi desenvolvido seguindo princípios de:
 - KPIs claros e objetivos
 - Storytelling orientado ao negócio
 
-📷 Prints do dashboard estão disponíveis na pasta `/images`.
+<img width="1435" height="806" alt="image" src="https://github.com/user-attachments/assets/5426896e-5510-41b5-891d-29b285f330de" />
+
 
 ---
 
